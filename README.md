@@ -3,7 +3,7 @@
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ## Norbu Lama!
-I'm Norbu Lama. I just graduated with a bachelor's degree in information technology, and I'm excited to embark on this journey with a thirst for knowledge. I really enjoy learning languages such as Html/CSS/Python and currently learning Django Web Framework. I also enjoy UI and designing in general and staying up-to-date with the latest technologies.
+I'm Norbu Lama and I really enjoy learning languages such as Html/CSS/Python and currently learning Django Web Framework. I just graduated with a bachelor's degree in information technology, and I'm excited to embark on this journey with a thirst for knowledge. I also enjoy UI and designing in general and staying up-to-date with the latest technologies.
 
 ## Skills and Experience
 * 💻 HTML/ CSS
