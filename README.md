@@ -1,5 +1,5 @@
-### 👋 Hello, I'm Norbu Lama!
-##  Design and Development
+## 👋 Hello, I'm Norbu Lama!
+###  Design and Development
 ![Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Norbu Lama. I just graduated with a bachelor's degree in information technology, and I'm enthusiastic about exploring the world of technology and software development. I really enjoy learning languages such as Html/CSS/Python and currently learning Django Web Framework. I also enjoy UI and designing in general and staying up-to-date with the latest technologies. I believe that the world of IT is a never-ending journey of discovery, and I'm excited to embark on this journey with a thirst for knowledge.
