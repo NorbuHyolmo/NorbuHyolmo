@@ -3,25 +3,39 @@
 ![Design and Development](https://norbuhyolmo.github.io/images-insert/background.png)
 
 ## Norbu Lama!
-I'm Norbu Lama and I really enjoy learning languages such as Html/CSS/Python and currently learning Django Web Framework. I just graduated with a bachelor's degree in information technology, and I'm excited to embark on this journey with a thirst for knowledge. I also enjoy UI and designing in general and staying up-to-date with the latest technologies.
+AWS Certified Cloud & AI Engineer passionate about building 
+real-world ML systems and scalable cloud infrastructure. 
+Currently expanding into end-to-end AI solutions from 
+data processing to deployment.
 
 ## Skills & Experience
-💬Languages - Python, JavaScript
-🌐 Frontend — HTML, CSS, REACT
+💬 Languages — Python, JavaScript
+🌐 Frontend — HTML, CSS, React
 🐍 Backend — FastAPI, Django, Django REST Framework
 🗄️ Database — PostgreSQL
 ☁️ Cloud — AWS (Solutions Architect & ML Engineer Associate Certified)
 🤖 AI/ML — Scikit-Learn, Pandas, NumPy, SageMaker, Jupyter
 🛠️ Tools — Git, Docker, CI/CD
 
-
-
 🔭 Currently working on ML projects and expanding into end-to-end AI systems
-🌱 Currently learning advanced ML (Decision Trees, Random Forest, SVM) and AWS deployment
+🌱 Currently learning SVM and Neural Networks
 
+## What I've Built
+🐳 **Docker & AWS Deployment**
+- Containerized a FastAPI application with Docker
+- Pushed image to DockerHub and deployed on AWS EC2
 
-## Examples of Work
+🤖 **Machine Learning Projects**
+- Data Preprocessing — missing value imputation, encoding, standardization
+- Linear Regression — house price prediction, coefficient interpretation
+- Logistic Regression — churn prediction, class imbalance handling, ROC curve
+- Decision Trees — Iris classification, pruning, tree visualization
+- Random Forest — hyperparameter tuning, feature importance analysis
+- K-Means Clustering — elbow method, cluster visualization
 
+🔧 **Full Stack Development**
+- Buyer Portal — Django REST Framework, React, JWT authentication, PostgreSQL
+- E-commerce Backend — Django, PostgreSQL, product management, cart and order processing
 
 
 
