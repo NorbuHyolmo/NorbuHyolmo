@@ -9,13 +9,14 @@ Currently expanding into end-to-end AI solutions from
 data processing to deployment.
 
 ## Skills & Experience
-💬 Languages — Python, JavaScript
-🌐 Frontend — HTML, CSS, React
-🐍 Backend — FastAPI, Django, Django REST Framework
-🗄️ Database — PostgreSQL
-☁️ Cloud — AWS (Solutions Architect & ML Engineer Associate Certified)
-🤖 AI/ML — Scikit-Learn, Pandas, NumPy, SageMaker, Jupyter
-🛠️ Tools — Git, Docker, CI/CD
+
+- 💬 **Languages** — Python, JavaScript
+- 🌐 **Frontend** — HTML, CSS, React
+- 🐍 **Backend** — FastAPI, Django, Django REST Framework
+- 🗄️ **Database** — PostgreSQL
+- ☁️ **Cloud** — AWS (Solutions Architect & ML Engineer Associate Certified)
+- 🤖 **AI/ML** — Scikit-Learn, Pandas, NumPy, SageMaker, Jupyter
+- 🛠️ **Tools** — Git, Docker, CI/CD
 
 🔭 Currently working on ML projects and expanding into end-to-end AI systems
 🌱 Currently learning SVM and Neural Networks
