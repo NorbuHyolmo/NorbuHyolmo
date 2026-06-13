@@ -37,6 +37,7 @@ data processing to deployment.
 🔧 **Full Stack Development**
 - Buyer Portal — Django REST Framework, React, JWT authentication, PostgreSQL
 - E-commerce Backend — Django, PostgreSQL, product management, cart and order processing
+- Insurance Premium Prediction - ML Model, Fast API
 
 
 
